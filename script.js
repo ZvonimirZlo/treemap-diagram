@@ -1,6 +1,6 @@
 const movieDataUrl = 'https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/movie-data.json'
 
-let movieData
+let movieData;
 
 const canvas = d3.select('#canvas')
 
